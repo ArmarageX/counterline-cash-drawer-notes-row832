@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://armaragex.github.io/counterline-cash-drawer-notes-row832/sitemap.xml

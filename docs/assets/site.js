@@ -1,0 +1,1 @@
+"use strict";document.querySelectorAll(".site-nav details").forEach(function(menu){menu.addEventListener("keydown",function(event){if(event.key==="Escape"){menu.open=false;menu.querySelector("summary").focus();}});});
